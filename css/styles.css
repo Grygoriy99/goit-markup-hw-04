@@ -410,7 +410,7 @@ button {
   flex-shrink: 0;
 }
 
-/*paragraph */
+/*paragraph
 .our-advantages-paragraph,
 .our-team-paragraph,
 .our-portfolio-paragraph {
@@ -418,14 +418,18 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
+} */
 
 /* footer */
 .footer {
   background: #2e2f42;
   padding: 100px 0;
+}
+.footer-structure {
   display: flex;
   align-items: baseline;
+}
+.footer-logo-text {
   margin-right: 120px;
 }
 .footer-logo {
